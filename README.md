@@ -1,3 +1,3 @@
 # Food Search With React & Tailwind
 
-## [View Live Sire](https://github.com/facebook/create-react-app).
+## [View Live Sire](https://react-foodsearch-tailwind.netlify.app).
